@@ -2,11 +2,6 @@
 
 Note app built with MERN stack. Currently WIP.
 
-App's design is a clone of https://www.notion.so/.
-
-## App Preview
-
-https://github.com/jp-quintana/mern-note-app/assets/87621233/10b92abc-03c0-4932-a213-aa3b375f3c80
 
 ## Features
 
